@@ -1,0 +1,1 @@
+{"name":"latest","files":[["model.json","latest/model.json"],["model.weights.bin","latest/model.weights.bin"]],"format":"tfjs","metadata":{"tfjsModelFormat":"layers-model","labels":["Waterbody","Railway","Agricultural area","Road","Industrial or commercial area","Residential area","Public square or park","Forest"]},"updatedAt":{"$$date":1720517530960},"_id":"5qUFo8MDnbz1JTAn"}
