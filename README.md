@@ -1,4 +1,4 @@
-Mental Models in Human–AI Interaction (IUI 2026)
+Exploring people's testing strategies in ML-based image classification (AlpCHI 2026)
 =================================================
 Code and data to reproduce the paper **Exploring people’s testing strategies in ML-based image classification** Proceedings of AlpCHI 2026. [DOI: 10.1145/3780045.3780051](https://doi.org/10.1145/3780045.3780051).
 
